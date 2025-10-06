@@ -2,7 +2,7 @@
 
 
 
-Arduino project that switches between \*\*day\*\* and \*\*night\*\* mode. It warns user in case of movement detected or gives distance and brightness data during day or night. If the system detects movement, \*\*buzzer\*\* will start working and red \*\*diode\*\* will start flashing. \*\*LCD\*\* displays different information in every different mode.
+Arduino project that switches between **day** and **night** mode. It warns user in case of movement detected or gives distance and brightness data during day or night. If the system detects movement, **buzzer** will start working and red **diode** will start flashing. **LCD** displays different information in every different mode.
 
 
 
@@ -29,14 +29,14 @@ Arduino project that switches between \*\*day\*\* and \*\*night\*\* mode. It war
 
 
 
-\## Features and how it works
+## Features and how it works
 
 System switches between day and night mode automatically thanks to the use of photoresistor.
 
-\*\*Day mode:\*\*
+**Day mode:**
 Servo in 0° (sleep) position, both LED off, LCD displays information about actual mode, distance from ultrasonic sensor and light intensity from photoresistor.
 
-\*\*Night mode:\*\*
+**Night mode:**
 
 You can toggle between info and alarm mode by pressing tact switch, default mode is the alarm mode.
 
@@ -47,15 +47,15 @@ You can toggle between info and alarm mode by pressing tact switch, default mode
 
 
 
-\## Project photo
+## Project photo
 
-!\[Project setup](photo.jpeg)
-
-
+![Project setup](photo.jpeg)
 
 
 
-\## How to use
+
+
+## How to use
 
 1. Build your own system
 2. Connect your Arduino Uno to your PC and 9V battery
@@ -66,7 +66,7 @@ You can toggle between info and alarm mode by pressing tact switch, default mode
 
 
 
-\## Author
+## Author
 
-\*\*yungtom0\*\*
+*yungtom0*
 
