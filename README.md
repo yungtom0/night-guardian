@@ -34,6 +34,7 @@ Arduino project that switches between **day** and **night** mode. It warns user 
 System switches between day and night mode automatically thanks to the use of photoresistor.
 
 **Day mode:**
+
 Servo in 0° (sleep) position, both LED off, LCD displays information about actual mode, distance from ultrasonic sensor and light intensity from photoresistor.
 
 **Night mode:**
