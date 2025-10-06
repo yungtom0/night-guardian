@@ -8,7 +8,7 @@ Arduino project that switches between \*\*day\*\* and \*\*night\*\* mode. It war
 
 
 
-\## Components used:
+## Components used:
 
 * Arduino Uno
 * Breadboard
